@@ -1,0 +1,6 @@
+framework module Pods_movie_mandiri {
+  umbrella header "Pods-movie-mandiri-umbrella.h"
+
+  export *
+  module * { export * }
+}
